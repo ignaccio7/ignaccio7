@@ -29,7 +29,20 @@ Actualmente soy universitario de 8vo Semestre en la carrera de Sistemas Informat
 <br>
 
 ## Proyectos personales hice*
+### HTML & CSS
+[Sitio para tienda de inmuebles](https://ignaccio7.github.io/20ProyectosHTMLCSS/ecommerce/)  
+[Sitio de Cafeteria](https://ignaccio7.github.io/20ProyectosHTMLCSS/Cafeteria/)  
+[Sitio para App de pagos Nucleus](https://ignaccio7.github.io/20ProyectosHTMLCSS/Nucleus/)  
+[Sitio para audifonos TechPRO](https://ignaccio7.github.io/20ProyectosHTMLCSS/TECHPRO-SitioParaAudifonos/)  
+[Sitio para una empresa de arquitectura](https://ignaccio7.github.io/20ProyectosHTMLCSS/Architecture-SitioDeArquitectura/)
+### Mis apuntes de JavaScript
+[Apuntes JS](https://github.com/ignaccio7/JavaScriptApuntes)
+### Mis apuntes de React
+[Apuntes de ReactJS](https://github.com/ignaccio7/ReactApuntes/tree/master/projects)
+## Mis apuntes de Astro
+[Apuntes de Astro](https://github.com/ignaccio7/AstroApuntes)
 ## Proyectos en los que contribui*
+
 
 <!--
 **ignaccio7/ignaccio7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
